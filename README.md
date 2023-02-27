@@ -11,12 +11,12 @@ In the series [Mandalorian](https://www.imdb.com/title/tt8111088/), the characte
 
 To create this effect, I used the cable component of Unreal Engine 5.1. Cable length changes according to the distance of target. If there is no target within the reach of our cable, nothing happens. It is physics based, so there is a slight gravity acting on the hook. Right now, it checks whether if the target simulates physics. Which is scalable, as it can be improved for various targets. I modeled the metal "hook" part using Blender.  
 
-Here is a GIF of my implementation.
-
-![Grapple](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWY3YzM2MTkwYmI4NWZlOTZmYmQyNmM2NDQ0YjgxYjk2MzcyNmJjNyZjdD1n/WaA7A54pvSydFtN2J7/giphy.gif)
-
 You can watch a better quality Youtube video [here](https://www.youtube.com/watch?v=fdR5riQKFnU).
 (backup link: https://www.youtube.com/watch?v=fdR5riQKFnU)
+
+Here is also a low quality GIF of my implementation.
+
+![Grapple](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWY3YzM2MTkwYmI4NWZlOTZmYmQyNmM2NDQ0YjgxYjk2MzcyNmJjNyZjdD1n/WaA7A54pvSydFtN2J7/giphy.gif)
 
 ### 2. FOV Boost
 In Atomic Heart as character moves forward, there is a slight boost on FOV (Field of View), which enhances the immersion.
