@@ -2,6 +2,12 @@
 
 _Hi, my name is Onur. Following is a series of different ideas I found inspiring enough to execute in Unreal Engine, and they all showcase a bit of my capabilities in various areas. Thank you for taking the time to visit my portfolio, and I hope you enjoy browsing through my projects._
 
+| Number | Project Name | Inpiration |
+| --- | --- | --- |
+| 1 | Wrist Grapple | Mandalorian |
+| 2 | FOV Boost | Atomic Heart |
+| 3 | Double Dash | Celeste |
+
 ## Projects
 ### 1. Wrist Grapple
 
@@ -31,3 +37,5 @@ Atomic Heart inspired me to immitate this effect on Unreal Engine 5. Weight of t
 
 This effect can be used in vehicles. (spaceships, fast cars, jetski etc.)
 
+
+<iframe src="https://blueprintue.com/render/njnq9efk/" scrolling="no" allowfullscreen></iframe>
