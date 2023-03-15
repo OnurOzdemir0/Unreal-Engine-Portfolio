@@ -36,6 +36,3 @@ Atomic Heart inspired me to immitate this effect on Unreal Engine 5. Weight of t
 ![Atomic Heart (2023)](https://media.giphy.com/media/TiW2tX1IMQXR1uLIOX/giphy.gif)
 
 This effect can be used in vehicles. (spaceships, fast cars, jetski etc.)
-
-
-<iframe src="https://blueprintue.com/render/njnq9efk/" scrolling="no" allowfullscreen></iframe>
